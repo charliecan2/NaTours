@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "A travel website made to take you across different nature guided tours.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss:css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliecan2/NaTours.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charliecan2/NaTours/issues"
+  },
+  "homepage": "https://github.com/charliecan2/NaTours#readme",
+  "devDependencies": {
+    "sass": "^1.37.0"
+  }
+}
